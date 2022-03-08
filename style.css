@@ -15,7 +15,6 @@ body{
     background-color: hsl(243, 36%, 21%);
     --nav-height: 75px;
 }
-
 html {
     scroll-behavior: smooth;
    }
